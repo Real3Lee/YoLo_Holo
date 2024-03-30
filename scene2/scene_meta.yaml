@@ -1,0 +1,5 @@
+cam_scale: 0.001
+camera: zed_camera
+num_frames: 98
+objects:
+- 24
